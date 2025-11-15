@@ -1,1 +1,1 @@
-MyFolder/README.md
+MyFolder/render_bot
