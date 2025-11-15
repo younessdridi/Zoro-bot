@@ -1,1 +1,0 @@
-render_bot/render_bot
