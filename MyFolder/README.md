@@ -1,1 +1,1 @@
-MyFolder/render_bot
+render_bot/render_bot
